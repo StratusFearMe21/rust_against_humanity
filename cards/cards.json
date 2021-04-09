@@ -1,0 +1,19 @@
+[
+    {
+        "name": "The Base Set",
+        "white": [
+            {
+                "text": "Answer cards in plain text, formatted with **Markdown**",
+                "pack": 0
+            }
+        ],
+        "black": [
+            {
+                "text": "_Prompt_ cards\nformatted with _.",
+                "pick": 1,
+                "pack": 0
+            }
+        ],
+        "official": true
+    }
+]
